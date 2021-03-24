@@ -2,6 +2,8 @@
 
 This is a dev version of the app
 
+v0.1.2-development
+
 ## Project setup
 ```
 yarn install
