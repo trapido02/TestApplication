@@ -1,5 +1,7 @@
 # testapplication
 
+This is a dev version of the app
+
 ## Project setup
 ```
 yarn install
